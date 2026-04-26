@@ -12,11 +12,7 @@ Uncovering spending psychology hidden inside transaction patterns.
 - [x] Data Loading & Inspection
 - [x] Data Cleaning (dirty categorical values, column renaming)
 - [x] Feature Engineering
-<<<<<<< HEAD
-- [x] Exploratory Data Analysis
-=======
 - [ ] Exploratory Data Analysis
->>>>>>> ced8d603e1c1a8c796194c9de6d318a347643f7d
 - [ ] Deep Insights & Anomaly Detection
 - [ ] Final Dashboard
 
