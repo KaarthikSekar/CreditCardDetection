@@ -13,8 +13,8 @@ Uncovering spending psychology hidden inside transaction patterns.
 - [x] Data Cleaning (dirty categorical values, column renaming)
 - [x] Feature Engineering
 - [x] Exploratory Data Analysis
-- [ ] Deep Insights & Anomaly Detection
-- [ ] Final Dashboard
+- [x] Deep Insights & Anomaly Detection
+- [x] Final Dashboard
 
 ## Tech Stack
 Python | pandas | numpy | matplotlib | seaborn | scipy
